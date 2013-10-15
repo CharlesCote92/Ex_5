@@ -1,4 +1,10 @@
-part of fonctions;
+ex05
+
+1/1
+
+Ex_5
+->
+ex_5
 
 ex_05_1() {
   print('Exercice 1');
@@ -6,7 +12,7 @@ ex_05_1() {
   // Validate if a text has only letters.
   var text = ['mon nom est charles hehe'];
 }
-
+parser ?
 
 ex_05_2() {
   print('Exercice 2');
@@ -23,31 +29,8 @@ ex_05_2() {
   }
   print('');
 }
+function ?
 
-ex_05_3() {
-  print('Exercice 3');
-  print('');
-}
+Créer une fonction qui gère la table de multiplication pour n'importe quel nombre. 
+n'importe quel nombre ?
 
-ex_05_4() {
-  print('Exercice 4');
-  int count = 10;
-  var table = 8;
-  String sequence =
-      iteration(count);
-  print('${count-1} terms of the $table times table sequence--> ');
-  print(sequence);
-  print("");
-}
-
-ex_05_5() {
-  print('Exercice 5');
-}
-
-void main() {
-  ex_05_1();
-  ex_05_2();
-  ex_05_3();
-  ex_05_4();
-  ex_05_5();
-}

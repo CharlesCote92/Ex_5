@@ -11,8 +11,6 @@ String parser(text) {
   }
 }
 
-
-
 String iteration(int t) {
   int b = 8, f = 1, n = 0;
   String result = '';
